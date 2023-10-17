@@ -16,6 +16,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostMan-282C34?logo=postman&logoColor=#FF6C37" alt="PostMan logo" title="PostMan" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Google Colab-282C34?logo=googlecolab&logoColor=21759B" alt="Google Colab logo" title="Google Colab" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=#E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=#1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
