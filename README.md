@@ -18,15 +18,21 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=#CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQl Server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Apache NetBeans IDE-282C34?logo=apachenetbeanside&logoColor=#1B6AC6" alt="NetBeans logo" title="NetBeans" height="25" /></span>
+<span><img src="https://img.shields.io/badge/NetBeans IDE-282C34?logo=apachenetbeanside&logoColor=#1B6AC6" alt="NetBeans logo" title="NetBeans" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=#5C2D91" alt="Visual Studio logo" title="Visual Studo" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=#007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Spider IDE-282C34?logo=spyderide&logoColor=#FF0000" alt="Spider logo" title="Spider IDE" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipseide&logoColor=#2C2255" alt="Eclipse logo" title="Eclipse" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=21759B" alt="Discord logo" title="Discord" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Spider IDE-282C34?logo=spyderide&logoColor=FFCA28" alt="Spider logo" title="Spider IDE" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipseide&logoColor=21759B" alt="Eclipse logo" title="Eclipse" height="25" /></span>
+<span><img src="https://img.shields.io/badge/LightRoom-282C34?logo=adobelightroom&logoColor=21759B" alt="LightRoom logo" title="LightRoom" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/LightRoom-282C34?logo=adobelightroom&logoColor=21759B" alt="LightRoom logo" title="LightRoom" height="25" /></span>
 &nbsp;
