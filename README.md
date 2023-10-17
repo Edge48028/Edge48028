@@ -50,14 +50,14 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" title="Edge48028">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge48028&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Edge48028">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Edge48028&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+<div align="center">
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge48028&theme=react&line_height=40&hide=css"/>
+    </a>
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Edge48028&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+</div
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
@@ -74,7 +74,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Edge48028-linkedin" />
   </a>
   <a href="https://instagram.com/Edge48028" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Edge48028-instagram" />
   </a>
   <a href="mailto:Edge48028@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Edge48028-email" />
@@ -83,13 +83,12 @@
 
 <br>
 
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<h2 align="center">📖 My Contact me 📖</h2>
 <br>
 <p>
   </a>
 </p>
 <p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://linktr.ee/edge48028?fbclid=IwAR2ElInN1lZDqoQJG4uT2al4ku7MzmKXJM4TSTMjuxL4bGSaHvAIeU5Nfmw" target="_blank"></a></strong>
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/Edge48028" target="_blank">https://www.facebook.com/Edge48028</a></strong>
   <br>
