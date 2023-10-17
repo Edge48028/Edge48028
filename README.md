@@ -72,7 +72,7 @@
   </a>
 </p>
 <p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="" target="_blank"></a></strong>
+  <strong>🔗 Link giới thiệu chi tiết: <a href="https://linktr.ee/edge48028?fbclid=IwAR2ElInN1lZDqoQJG4uT2al4ku7MzmKXJM4TSTMjuxL4bGSaHvAIeU5Nfmw" target="_blank"></a></strong>
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/Edge48028" target="_blank">https://www.facebook.com/Edge48028</a></strong>
   <br>
