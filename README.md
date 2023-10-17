@@ -8,6 +8,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ASP.NET-282C34?logo=dotnet&logoColor=#512BD4" alt="ASP.NETlogo" title="ASP.NET" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=#5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=#007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=#E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=#1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -18,11 +22,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=#CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQl Server" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/PostMan-282C34?logo=postman&logoColor=#FF6C37" alt="PostMan logo" title="PostMan" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/NetBeans IDE-282C34?logo=apachenetbeanside&logoColor=#1B6AC6" alt="NetBeans logo" title="NetBeans" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=androidstudio&logoColor=#3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=#5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=#007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Spider IDE-282C34?logo=spyderide&logoColor=#FF0000" alt="Spider logo" title="Spider IDE" height="25" /></span>
 &nbsp;
@@ -34,12 +38,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=#181717" alt="GitHub logo" title="GitHub" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PostMan-282C34?logo=postman&logoColor=#FF6C37" alt="PostMan logo" title="PostMan" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=#26A5E4" alt="Telegram logo" title="Telegram" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=androidstudio&logoColor=#3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
-&nbsp;
+
 <span><img src="https://img.shields.io/badge/LightRoom-282C34?logo=adobelightroom&logoColor=21759B" alt="LightRoom logo" title="LightRoom" height="25" /></span>
 &nbsp;
 <br>
