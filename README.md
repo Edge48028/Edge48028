@@ -14,6 +14,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=#CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQl Server" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/XAMPP-282C34?logo=xampp&logoColor=#FB7A24" alt="XAMPP logo" title="XAMPP" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/PostMan-282C34?logo=postman&logoColor=#FF6C37" alt="PostMan logo" title="PostMan" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Google Colab-282C34?logo=googlecolab&logoColor=#F9AB00" alt="Google Colab logo" title="Google Colab" height="25" /></span>
