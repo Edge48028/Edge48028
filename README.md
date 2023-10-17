@@ -16,7 +16,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostMan-282C34?logo=postman&logoColor=#FF6C37" alt="PostMan logo" title="PostMan" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Google Colab-282C34?logo=googlecolab&logoColor=21759B" alt="Google Colab logo" title="Google Colab" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Google Colab-282C34?logo=googlecolab&logoColor=#F9AB00" alt="Google Colab logo" title="Google Colab" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=#E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -42,7 +42,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=#26A5E4" alt="Telegram logo" title="Telegram" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/LightRoom-282C34?logo=adobelightroom&logoColor=21759B" alt="LightRoom logo" title="LightRoom" height="25" /></span>
+<span><img src="https://img.shields.io/badge/LightRoom-282C34?logo=adobelightroom&logoColor=#31A8FF" alt="LightRoom logo" title="LightRoom" height="25" /></span>
 &nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
