@@ -18,7 +18,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=#CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQl Server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ApacheNetBeansIDE-282C34?logo=apachenetbeanside&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Apache NetBeans IDE-282C34?logo=apachenetbeanside&logoColor=#1B6AC6" alt="NetBeans logo" title="NetBeans" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
