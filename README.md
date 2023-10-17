@@ -47,9 +47,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://Edge48028.com" target="blank">
-    <img width="90" height="90" src="images/logo-Edge48028-transparent-bg-192x192.png" alt="Edge48028-blog" />
-  </a>
   <a href="https://facebook.com/Edge48028" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Edge48028-facebook" />
   </a>
@@ -81,14 +78,7 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:Edge48028@gmail.com" target="_top">Edge48028@gmail.com</a></strong>
 </p>
-<a href="#" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-Edge48028-scaled.jpeg" width="1200" alt="Edge48028-official" />
-</a>
-
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
-  <img src="#" width="846" height="150" alt="Edge48028-official" />
-</a>
 
