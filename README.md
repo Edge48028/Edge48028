@@ -32,7 +32,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=#5865F2" alt="Discord logo" title="Discord" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=21759B" alt="GitHub logo" title="GitHub" height="25" /></span>
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=#181717" alt="GitHub logo" title="GitHub" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PostMan-282C34?logo=postman&logoColor=#FF6C37" alt="PostMan logo" title="PostMan" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=#26A5E4" alt="Telegram logo" title="Telegram" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/LightRoom-282C34?logo=adobelightroom&logoColor=21759B" alt="LightRoom logo" title="LightRoom" height="25" /></span>
 &nbsp;
