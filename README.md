@@ -26,9 +26,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Spider IDE-282C34?logo=spyderide&logoColor=FFCA28" alt="Spider logo" title="Spider IDE" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Adobe LightRoom-282C34?logo=adobelightroom&logoColor=21759B" alt="LightRoom logo" title="LightRoom" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipseide&logoColor=21759B" alt="Eclipse logo" title="Eclipse" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/LightRoom-282C34?logo=adobelightroom&logoColor=21759B" alt="LightRoom logo" title="LightRoom" height="25" /></span>
+&nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
