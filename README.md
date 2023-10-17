@@ -28,9 +28,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipseide&logoColor=#2C2255" alt="Eclipse logo" title="Eclipse" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=#F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=21759B" alt="Discord logo" title="Discord" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=#5865F2" alt="Discord logo" title="Discord" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/LightRoom-282C34?logo=adobelightroom&logoColor=21759B" alt="LightRoom logo" title="LightRoom" height="25" /></span>
 &nbsp;
