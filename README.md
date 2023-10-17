@@ -6,7 +6,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Pythonlogo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ASP.NET-282C34?logo=ASP.NET&logoColor=#512BD4" alt="ASP.NETlogo" title="ASP.NET" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Dotnet-282C34?logo=ASP.NET&logoColor=#512BD4" alt="ASP.NETlogo" title="ASP.NET" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
 &nbsp;
