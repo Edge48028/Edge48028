@@ -26,7 +26,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Spider IDE-282C34?logo=spyderide&logoColor=FFCA28" alt="Spider logo" title="Spider IDE" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Adobe LightRoom-282C34?logo=adobelightroom&logoColor=21759B" alt="LightRoom logo" title="LightRoom" height="25" /></span>
 &nbsp;
 
 <br>
