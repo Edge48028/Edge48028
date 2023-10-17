@@ -38,6 +38,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=#26A5E4" alt="Telegram logo" title="Telegram" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=androidstudio&logoColor=#3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/LightRoom-282C34?logo=adobelightroom&logoColor=21759B" alt="LightRoom logo" title="LightRoom" height="25" /></span>
 &nbsp;
 <br>
