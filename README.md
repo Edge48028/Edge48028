@@ -56,7 +56,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align="center">
+<div align="center"> 
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge48028&theme=react&line_height=40&hide=css"/>
     </a>
