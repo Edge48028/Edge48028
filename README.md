@@ -78,7 +78,7 @@
   <a href="https://instagram.com/Edge48028" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Edge48028-instagram" />
   </a>
-  <a href="mailto:Edge48028@gmail.com" target="top">
+  <a href="mailto:Garena48028@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Edge48028-email" />
   </a>
 </div>
@@ -94,7 +94,7 @@
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/Edge48028" target="_blank">https://www.facebook.com/Edge48028</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:Edge48028@gmail.com" target="_top">Edge48028@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:Edge48028@gmail.com" target="_top">Garena48028@gmail.com</a></strong>
 </p>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
