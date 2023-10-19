@@ -96,7 +96,7 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Edge48028-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/Edge48028" target="blank">
+  <a href="https://linktr.ee/edge48028" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Edge48028-linkedin" />
   </a>
   <a href="https://instagram.com/Edge48028" target="blank">
