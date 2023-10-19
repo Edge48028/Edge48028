@@ -99,8 +99,8 @@
   <a href="https://linktr.ee/edge48028" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Edge48028-linkedin" />
   </a>
-  <a href="https://instagram.com/Edge48028" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Edge48028-instagram" />
+  <a href="https://instagram.com/nm.hoang24" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nm.hoang24-instagram" />
   </a>
   <a href="mailto:Garena48028@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Edge48028-email" />
