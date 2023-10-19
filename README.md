@@ -102,7 +102,7 @@
   <a href="https://instagram.com/nm.hoang24" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nm.hoang24-instagram" />
   </a>
-  <a href="mailto:Garena48028@gmail.com" target="top">
+  <a href="mailto:#" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Edge48028-email" />
   </a>
 </div>
