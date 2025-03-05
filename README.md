@@ -96,13 +96,13 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Edge48028-youtube" />
   </a>
-  <a href="https://linktr.ee/edge48028" target="blank">
+  <a href="https://www.linkedin.com/in/ho%C3%A0ng-nguy%E1%BB%85n-9a73142b7/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Edge48028-linkedin" />
   </a>
-  <a href="https://instagram.com/nm.hoang24" target="blank">
+  <a href="https://instagram.com/nm.hoang26" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nm.hoang24-instagram" />
   </a>
-  <a href="mailto:#" target="top">
+  <a href="https://linktr.ee/edge48028" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Edge48028-email" />
   </a>
 </div>
